@@ -1,0 +1,69 @@
+# ipshutt.github.io
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>shut</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+
+    body {
+      background: url('bg.jpg') center/cover no-repeat;
+      color: white;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+      background-color: #0f0f0f; /* fallback */
+    }
+
+    .logo {
+      font-size: 48px;
+      font-weight: 700;
+      color: #00ff9f;
+      margin-bottom: 12px;
+    }
+
+    .tagline {
+      font-size: 24px;
+      color: #d0d0d0;
+      max-width: 600px;
+      margin-bottom: 32px;
+    }
+
+    .button {
+      background-color: #00ff9f;
+      color: #000;
+      font-size: 20px;
+      font-weight: bold;
+      padding: 14px 32px;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: #00d48a;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">shut</div>
+  <div class="tagline">Создаю стильные интерфейсы и умные решения — от дизайна до программирования.</div>
+  <a class="button" href="https://t.me/ipshut" target="_blank">CEO</a>
+</body>
+<
+                          /html>
